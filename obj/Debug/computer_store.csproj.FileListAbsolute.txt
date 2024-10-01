@@ -1,0 +1,7 @@
+C:\Users\laksh\source\repos\computer_store\computer_store\obj\Debug\computer_store.csproj.AssemblyReference.cache
+C:\Users\laksh\source\repos\computer_store\computer_store\obj\Debug\computer_store.csproj.CoreCompileInputs.cache
+C:\Users\laksh\source\repos\computer_store\computer_store\bin\Debug\computer_store.exe.config
+C:\Users\laksh\source\repos\computer_store\computer_store\bin\Debug\computer_store.exe
+C:\Users\laksh\source\repos\computer_store\computer_store\bin\Debug\computer_store.pdb
+C:\Users\laksh\source\repos\computer_store\computer_store\obj\Debug\computer_store.exe
+C:\Users\laksh\source\repos\computer_store\computer_store\obj\Debug\computer_store.pdb
